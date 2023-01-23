@@ -1,0 +1,147 @@
+ 
+Interface name : Wireless Network Connection 
+There are 13 networks currently visible. 
+
+SSID 1 : R&D-2
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : ec:08:6b:ec:41:26
+         Signal             : 76%  
+         Radio type         : 802.11n
+         Channel            : 10 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : R&D
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 9c:2b:a6:7a:1f:1f
+         Signal             : 49%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 3 : CEO Room
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 60:a4:b7:56:43:53
+         Signal             : 49%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 4 : MPT-Home3
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : ac:84:c6:19:6d:6a
+         Signal             : 48%  
+         Radio type         : 802.11n
+         Channel            : 5 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 5 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 36:a4:3c:85:c0:8b
+         Signal             : 46%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 6 11 12 24
+         Other rates (Mbps) : 9 18 36 48 54
+
+SSID 6 : SA Ooredoo
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : b4:09:31:3e:95:a8
+         Signal             : 45%  
+         Radio type         : 802.11n
+         Channel            : 9 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 7 : qinglan MBT
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : b8:e3:b1:52:53:94
+         Signal             : 42%  
+         Radio type         : 802.11n
+         Channel            : 3 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 8 : Ko Aung Htike
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c4:0d:96:05:69:c8
+         Signal             : 42%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 9 : Kaung Htet
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 8e:30:ac:81:a5:f3
+         Signal             : 42%  
+         Radio type         : 802.11n
+         Channel            : 4 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 10 : V418F
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 8e:30:ac:81:41:8f
+         Signal             : 36%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 11 : Ma Shwe Kyi
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 5c:3a:3d:76:ee:9b
+         Signal             : 18%  
+         Radio type         : 802.11n
+         Channel            : 10 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 12 : REEF Coffee Lounge
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 20:08:89:ae:ac:1e
+         Signal             : 18%  
+         Radio type         : 802.11n
+         Channel            : 7 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 13 :  Myanmar Net
+    Network type            : Infrastructure
+    Authentication          : WPA2-Enterprise
+    Encryption              : CCMP 
+    BSSID 1                 : 7e:30:ac:81:41:8f
+         Signal             : 18%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
